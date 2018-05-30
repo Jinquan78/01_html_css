@@ -1,0 +1,19 @@
+.my_list{
+    padding:0px;
+    list-style-type:none;
+}
+.item-1{
+background-color:yellow;
+}
+.item-2{
+    list-style-type:square;
+    background-color:pink;
+    list-style-position: inside;
+
+}
+.item-3{
+    list-style-type: cjk-ideographic;
+    background-color: gray;
+    list-style-position: outside;
+
+}
